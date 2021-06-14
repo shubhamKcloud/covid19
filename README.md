@@ -1,4 +1,5 @@
-A simple ReactJS app that displays latest stats about COVID-19.
+A simple ReactJS app that displays latest stats about COVID-19. 
+Ping to Test Pipeline!
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
